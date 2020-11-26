@@ -11,7 +11,7 @@ git clone https://github.com/gaonkar-adi/micro-frontend-spa-example.git
 2. Install dependencies
 
 ```
-yarn
+yarn install
 
 # or
 
